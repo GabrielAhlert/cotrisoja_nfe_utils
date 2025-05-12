@@ -1,5 +1,5 @@
 [package]
-name = "nfe_cotrisoja_utils"
+name = "get_resp"
 version = "0.1.0"
 edition = "2024"
 
