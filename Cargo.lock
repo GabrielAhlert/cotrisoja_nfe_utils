@@ -195,15 +195,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "get_resp"
-version = "0.1.0"
-dependencies = [
- "clap",
- "notify",
- "tokio",
-]
-
-[[package]]
 name = "gimli"
 version = "0.31.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -330,6 +321,15 @@ dependencies = [
  "libc",
  "wasi",
  "windows-sys 0.52.0",
+]
+
+[[package]]
+name = "nfe_utils"
+version = "0.1.0"
+dependencies = [
+ "clap",
+ "notify",
+ "tokio",
 ]
 
 [[package]]
