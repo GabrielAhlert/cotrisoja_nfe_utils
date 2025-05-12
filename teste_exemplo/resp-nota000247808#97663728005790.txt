@@ -1,0 +1,4 @@
+Resultado=528
+Mensagem=Rejeicao: Valor do ICMS difere do produto BC e Aliquota. Orientações: Verifique se o valor resultante da multiplicação entre Base de Cálculo do ICMS * Alíquota do ICMS, dos itens da nota, está correto.
+ChaveNFe=43231197663728005790550010002478081448243541
+NumeroLote=000000000171915

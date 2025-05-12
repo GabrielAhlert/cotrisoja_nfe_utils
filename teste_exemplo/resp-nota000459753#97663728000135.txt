@@ -1,0 +1,8 @@
+Resultado=100
+Mensagem=Autorizado o uso da NF-e
+Recibo=0
+ChaveNFe=43231197663728000135550010004597531377465736
+NumeroLote=000000000357015
+Nprotocolo=143230271614432
+DataAutCanc=2023-11-24
+HoraAutCanc=08:45:20
